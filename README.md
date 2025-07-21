@@ -1,4 +1,4 @@
-# KK24402 GRAPHICS AND VISUALISATION
+# GRAPHICS AND VISUALISATION
 
 This project is for the **Graphics and Visualisation** course (KK24402). It uses **OpenGL** for rendering. Make sure you set up everything properly before running the project!
 
@@ -47,6 +47,4 @@ This project is for the **Graphics and Visualisation** course (KK24402). It uses
 - Use `#include <GL/glut.h>` or whatever your setup requires.
 - Some helpful OpenGL examples: [LearnOpenGL](https://learnopengl.com/)
 
----
-
-Happy coding & may your polygons be smooth ✨  
+--- 
